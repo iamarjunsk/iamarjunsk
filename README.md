@@ -1,6 +1,6 @@
 # Hey there! I'm Arjun S K 👋
 
-## Full-Stack Developer | Open Source Enthusiast | Builder
+## Web Developer | Tech Enthusiast
 
 I'm a passionate web developer from Bengaluru, India, crafting digital experiences with modern technologies. I love building applications that solve real problems and contributing to the developer community.
 
@@ -29,14 +29,14 @@ I'm a passionate web developer from Bengaluru, India, crafting digital experienc
 
 ### 🔥 Featured Projects
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [erp-office-rental](https://github.com/iamarjunsk/erp-office-rental) | ERP Office Rental Management System | Vue.js |
-| [music_control_django](https://github.com/iamarjunsk/music_control_django) | Music control system | Django + React |
-| [comfyui-image-editor](https://github.com/iamarjunsk/comfyui-image-editor) | AI-Powered Image Editor | Python + HTML |
-| [kbn-board](https://github.com/iamarjunsk/kbn-board) | Kanban Board Application | Nuxt.js |
-| [luxora-ecommerce](https://github.com/iamarjunsk/luxora-ecommerce) | E-commerce Platform | Nuxt.js |
-| [djangoPortfolioAPI](https://github.com/iamarjunsk/djangoPortfolioAPI) | Portfolio API | Django |
+| Project                                                                    | Description                         | Tech           |
+| -------------------------------------------------------------------------- | ----------------------------------- | -------------- |
+| [erp-office-rental](https://github.com/iamarjunsk/erp-office-rental)       | ERP Office Rental Management System | Vue.js         |
+| [music_control_django](https://github.com/iamarjunsk/music_control_django) | Music control system                | Django + React |
+| [comfyui-image-editor](https://github.com/iamarjunsk/comfyui-image-editor) | AI-Powered Image Editor             | Python + HTML  |
+| [kbn-board](https://github.com/iamarjunsk/kbn-board)                       | Kanban Board Application            | Nuxt.js        |
+| [luxora-ecommerce](https://github.com/iamarjunsk/luxora-ecommerce)         | E-commerce Platform                 | Nuxt.js        |
+| [djangoPortfolioAPI](https://github.com/iamarjunsk/djangoPortfolioAPI)     | Portfolio API                       | Django         |
 
 ---
 
@@ -53,11 +53,11 @@ I'm a passionate web developer from Bengaluru, India, crafting digital experienc
 
 - 🌐 **Website**: [iamarjunsk.vercel.app](https://iamarjunsk.vercel.app)
 - 📍 **Location**: Bengaluru, India
-- 🏢 **Company**: Trojon
+- 🏢 **Company**: Spatium Offices
 - 📊 **Followers**: 13
 
 > "Code is like humor. When you have to explain it, it's bad." — Keep it simple, keep it elegant!
 
 ---
 
-*Last updated: April 2026*
+_Last updated: April 2026_
