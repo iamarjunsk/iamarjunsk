@@ -43,8 +43,8 @@ I'm a passionate web developer from Bengaluru, India, crafting digital experienc
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamarjunsk&show_icons=true&theme=radical&count_private=true" alt="Arjun's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamarjunsk&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.shion.dev/api?username=iamarjunsk&show_icons=true&theme=radical&count_private=true&hide_rank=true" alt="Arjun's GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=iamarjunsk&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
